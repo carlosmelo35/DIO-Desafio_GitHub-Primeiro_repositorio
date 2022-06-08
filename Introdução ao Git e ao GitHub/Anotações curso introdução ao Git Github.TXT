@@ -116,3 +116,13 @@ Comando para clonar repositórios:
 
 git clone <endereço copiado do GitHub que eu queira clonar
 
+# Sequência para incluir um novo arquivo no repositório
+
+Com a pasta criada e um arquivo criado,
+
+git add . <para adicionar todos os arquivos>
+
+git commit -m “mensagem importante, comentário”
+
+git push origin main <enviando os commits para o repositório>
+
